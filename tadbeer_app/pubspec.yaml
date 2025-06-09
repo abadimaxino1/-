@@ -1,0 +1,29 @@
+name: tadbeer_app
+description: Advanced personal and team finance management app
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  sqflite: any
+  path: any
+  encrypt: any
+  google_ml_kit: any
+  flutter_local_notifications: any
+  fl_chart: any
+  image_picker: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/l10n/

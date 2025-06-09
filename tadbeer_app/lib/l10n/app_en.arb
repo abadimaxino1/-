@@ -1,0 +1,15 @@
+{
+  "appTitle": "Tadbeer",
+  "login": "Login",
+  "register": "Register",
+  "home": "Home",
+  "teams": "Teams",
+  "reports": "Reports",
+  "debts": "Debts",
+  "goals": "Goals",
+  "admin": "Admin",
+  "addExpense": "Add Expense",
+  "filter": "Filter",
+  "notifications": "Notifications",
+  "logout": "Logout"
+}
